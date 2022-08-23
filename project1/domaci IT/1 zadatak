@@ -5,14 +5,7 @@
             body { background-image: url(slikacvecaa.jpg);
             }
          
-           p{ border: 1px gray;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
-  background-color: lightblue;
- 
-  table , th, td { border: 1px  ;}
+     table , th, td { border-top-left-radius: 1px;}
  
 
 
@@ -22,7 +15,12 @@
 
 <h1>ZADATAK 1</h1>
 
-<p>Zovem se Dzenana Mehmedovic, volim da sviram gitaru,treniram i da pravim nakit u slobodno vreme.</p>
+<p style=" border: 1px gray;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 150px;
+margin-left: 80px;
+background-color: lightblue;">Zovem se Dzenana Mehmedovic, volim da sviram gitaru,treniram i da pravim nakit u slobodno vreme.</p>
 
 <h2> Pokusavam da odradim tabelu</h2>
 <table>
