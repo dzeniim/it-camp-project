@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <style>
+            body { background-image: url(slikacvecaa.jpg);
+            }
+         
+           p{ border: 1px gray;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: lightblue;
+ 
+  table , th, td { border: 1px  ;}
+ 
+
+
+        </style>
+</head>
+<body>
+
+<h1>ZADATAK 1</h1>
+
+<p>Zovem se Dzenana Mehmedovic, volim da sviram gitaru,treniram i da pravim nakit u slobodno vreme.</p>
+
+<h2> Pokusavam da odradim tabelu</h2>
+<table>
+    <tr>
+        <th>Omiljena hrana</th>
+        <th>Omiljeni sport</th>
+        <th>Omiljena boja</th>
+        <th>Cilj</th>
+    </tr>
+    <tr>
+        <td>kebab njamm</td>
+        <td>plivanje</td>
+        <td> morsko plava</td>
+        <td>zavrsiti anesteziologiju</td>
+        <tr>
+            <td>potaz corbe</td>
+            <td>tenis</td>
+            <td>pastelno roze</td>
+          </tr>
+          <tr>
+            <td>sladoled cizkejk</td>
+            <td>odbojka</td>
+            <td>bela</td>
+          </tr>
+</body>
+</html>
+
