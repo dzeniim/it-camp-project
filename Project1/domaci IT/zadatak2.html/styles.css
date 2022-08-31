@@ -1,0 +1,45 @@
+
+
+body{ background-image:url(3.jpg);
+}
+
+
+#top{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: rgb(92, 1, 77);
+text-align: center;
+font-weight: 400;
+
+}
+#top2{font-family:fantasy;
+    color: rgb(220, 21, 187);
+    text-align: center;
+    font-size: large ;
+    font-weight: 200;
+    margin-top: 50px;
+    }
+    a:link, a:visited {
+        background-color: white;
+  color: black;
+  border: 3px solid rgb(85, 108, 190);
+  padding: 10px 20px;
+  text-align: center;
+  justify-content: center;
+  text-decoration: none;
+  display: inline-block;
+  
+  height: 5vh;
+}
+      a:hover, a:active {
+        background-color: rgb(130, 223, 231);
+    
+        
+    }
+    #texts{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+font-weight: 500;
+text-align: center;
+text-shadow: 3px;
+font-size: larger;
+margin-top: 280px;
+font-style: bold;}
+    
