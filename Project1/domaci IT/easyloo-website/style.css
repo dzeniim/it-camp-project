@@ -27,6 +27,10 @@
   .navigation__logo {
     height: 50px;
   }
+  .bbimg{
+    height: 60px;
+    margin-top: 80px;
+  }
   
   .navigation__container {
     display: flex;
@@ -127,6 +131,15 @@
       background-color: #f3eaef;
       margin: 16px 0;
     }
+    .horizontal-line4{
+      width: 500px;
+      height: 2px;
+      background-color: #f3eaef;
+      padding-top:26px 0;
+      
+    }
+
+
     
   
     form label, input {
